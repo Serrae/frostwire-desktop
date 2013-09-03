@@ -549,7 +549,7 @@ msgstr "Tohumlayan Tranferleri gösterme"
 #: gui/com/frostwire/gui/bittorrent/BTDownloadActions.java:399
 #: gui/com/frostwire/gui/bittorrent/BTDownloadActions.java:400
 msgid "Show Seeding Transfers"
-msgstr "Kaynaklama Aktarımlarını Göster"
+msgstr "Tohumlama Aktarımlarını Göster"
 
 #: gui/com/frostwire/gui/bittorrent/BTDownloadActions.java:419
 #: gui/com/frostwire/gui/library/AbstractLibraryTableMediator.java:195
@@ -618,7 +618,7 @@ msgstr "Süre"
 #: gui/com/frostwire/gui/bittorrent/BTDownloadDataLine.java:327
 #: gui/com/limegroup/gnutella/gui/search/SearchTableColumns.java:22
 msgid "Seeds"
-msgstr "Kaynaklar"
+msgstr "Tohumlar"
 
 #: gui/com/frostwire/gui/bittorrent/BTDownloadDataLine.java:145
 #: gui/com/frostwire/gui/bittorrent/BTDownloadDataLine.java:326
@@ -631,7 +631,7 @@ msgstr "Dosya Paylaşın"
 
 #: gui/com/frostwire/gui/bittorrent/BTDownloadDataLine.java:153
 msgid "Seeds/Peers"
-msgstr "Kaynaklar/Paylaşımcılar"
+msgstr "Tohumlar/Paylaşımcılar"
 
 #: gui/com/frostwire/gui/bittorrent/BTDownloadDataLine.java:157
 msgid "Started On"
@@ -828,7 +828,7 @@ msgstr ""
 
 #: gui/com/frostwire/gui/bittorrent/CreateTorrentDialog.java:248
 msgid "Start seeding"
-msgstr "Kaynaklamayı Başlatın"
+msgstr "Tohumlamayı Başlatın"
 
 #: gui/com/frostwire/gui/bittorrent/CreateTorrentDialog.java:249
 msgid ""
